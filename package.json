@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "aws-sdk": "^2.619.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "form-data": "^3.0.0",
     "mime": "^2.4.4",
     "source-map-support": "^0.5.10",
